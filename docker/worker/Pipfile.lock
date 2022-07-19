@@ -132,7 +132,6 @@
             "version": "==1.2.13"
         },
         "google-api-core": {
-            "extras": [],
             "hashes": [
                 "sha256:06f7244c640322b508b125903bb5701bebabce8832f85aba9335ec00b3d02edc",
                 "sha256:93c6a91ccac79079ac6bbf8b74ee75db970cc899278b97d53bc012f35908cf50"
@@ -150,27 +149,27 @@
         },
         "google-cloud-appengine-logging": {
             "hashes": [
-                "sha256:ba77615c100f07edda91656ede1b7465907012b8663aad7c4e75ef9687994237",
-                "sha256:fe930e9dc5d77e8cb9940f8386965dd8f72d4d4ae2fc782e15637acb5ab585d5"
+                "sha256:05ddbba8e80fdcd908c459c04191ad52dfd6eb044e31f1a7b94b2bf51213d964",
+                "sha256:a536a45b5698c792a553cbe0397c2ee242432389c4562db2d18134a53a37937d"
             ],
-            "markers": "python_version >= '3.6'",
-            "version": "==1.1.2"
+            "markers": "python_version >= '3.7'",
+            "version": "==1.1.3"
         },
         "google-cloud-audit-log": {
             "hashes": [
-                "sha256:6d89903848aee9817477ece306544851b903a5ec561da966bbba5a8d12509a4d",
-                "sha256:80aa3816e85756ec9ba84f09fb4aae4a09ad9fd6637b8392ece42ad88f6e7efe"
+                "sha256:622f1b683d538292ebd73347da2f8205e63ede0c0bec0ab99e79a065c49266bd",
+                "sha256:8485c6d84ff665391f526a9ac5db4c8298d68c8e87bfbc3479afdc888a93b72c"
             ],
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'",
-            "version": "==0.2.2"
+            "markers": "python_version >= '3.7'",
+            "version": "==0.2.3"
         },
         "google-cloud-core": {
             "hashes": [
-                "sha256:113ba4f492467d5bd442c8d724c1a25ad7384045c3178369038840ecdd19346c",
-                "sha256:34334359cb04187bdc80ddcf613e462dfd7a3aabbc3fe4d118517ab4b9303d53"
+                "sha256:8417acf6466be2fa85123441696c4badda48db314c607cf1e5d543fa8bdc22fe",
+                "sha256:b9529ee7047fd8d4bf4a2182de619154240df17fbe60ead399078c1ae152af9a"
             ],
-            "markers": "python_version >= '3.6'",
-            "version": "==2.3.1"
+            "markers": "python_version >= '3.7'",
+            "version": "==2.3.2"
         },
         "google-cloud-datastore": {
             "hashes": [
@@ -182,11 +181,11 @@
         },
         "google-cloud-logging": {
             "hashes": [
-                "sha256:0c7160e2cd6c6845614e4f880eaae62da20ce27c239818fbda8b29d7a627aee6",
-                "sha256:12a094c2ee48ad02f2c7a0029405cc9ae3dc1d9d4579859518fb3b36ce1c7405"
+                "sha256:2d0cf3fc8664ade907df4afbb51826d341216364e9eb1a908348e9b7f98a1f49",
+                "sha256:a1111c54f75c6db045310cf9e712e6f10d1b7a64eb570b23fb87b0ef7035d4ac"
             ],
             "index": "pypi",
-            "version": "==3.2.0"
+            "version": "==3.2.1"
         },
         "google-cloud-ndb": {
             "hashes": [
@@ -355,7 +354,7 @@
         },
         "osv": {
             "editable": true,
-            "path": "./../.."
+            "path": "../../"
         },
         "packaging": {
             "hashes": [
@@ -570,6 +569,10 @@
             "markers": "python_version >= '3.6'",
             "version": "==4.8"
         },
+        "sanitized-package": {
+            "editable": true,
+            "path": "./../.."
+        },
         "semver": {
             "hashes": [
                 "sha256:ced8b23dceb22134307c1b8abfa523da14198793d9787ac838e70e29e77458d4",
@@ -759,11 +762,11 @@
         },
         "setuptools": {
             "hashes": [
-                "sha256:16923d366ced322712c71ccb97164d07472abeecd13f3a6c283f6d5d26722793",
-                "sha256:db3b8e2f922b2a910a29804776c643ea609badb6a32c4bcc226fd4fd902cce65"
+                "sha256:0d33c374d41c7863419fc8f6c10bfe25b7b498aa34164d135c622e52580c6b16",
+                "sha256:c04b44a57a6265fe34a4a444e965884716d34bae963119a76353434d6f18e450"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==63.1.0"
+            "version": "==63.2.0"
         },
         "tomli": {
             "hashes": [
